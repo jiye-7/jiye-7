@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/62678492/127778381-07b275a2-0728-485e-9578-b5b6bb09acb6.png" align="center" margin="0 auth" />
 
 <h2> Gamja - Jiye </h2>
-<p> Junior front-end developer </p>
+<p> front-end developer </p>
 
 <h3 > 🔧 Stack </h3>
 

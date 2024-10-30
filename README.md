@@ -16,5 +16,4 @@
 
 <h3 > 💌  Contact Me </h3>
 
-<a href="https://www.linkedin.com/in/jiye-yu-084345208/"><img src="https://img.shields.io/badge/LinkedIn-1D5B79?style=flat-square&logo=LinkedIn&logoColor=white"></a> 
 <a href="mailto:jy522hi@gmail.com"><img src="https://img.shields.io/badge/Gmail-B3C890?style=flat-square&logo=Gmail&logoColor=white"></a>
